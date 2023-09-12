@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "inkubis-fe474"
+  },
+  "targets": {
+    "inkubis-fe474": {
+      "hosting": {
+        "absen-inkubis": [
+          "absen-inkubis"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

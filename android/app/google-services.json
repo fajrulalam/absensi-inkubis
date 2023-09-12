@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513743155198",
+    "project_id": "inkubis-fe474",
+    "storage_bucket": "inkubis-fe474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513743155198:android:533b06ff11584507e3daaf",
+        "android_client_info": {
+          "package_name": "com.example.absensi_inkubis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513743155198-m74jnqasgps9d9esnkpgjb4vicpgut51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEnJ6fE7JGv789b7XmmPKeWBmFuByDs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513743155198-m74jnqasgps9d9esnkpgjb4vicpgut51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
